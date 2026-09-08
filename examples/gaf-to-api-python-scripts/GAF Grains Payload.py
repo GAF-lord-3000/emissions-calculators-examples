@@ -6,10 +6,10 @@ import json
 # CONFIG
 # =========================
 # >>> ENTERPRISE-SPECIFIC: path to the completed G-GAF workbook
-XLSX_FILE = r
+XLSX_FILE = r"your path here"
 API_URL   = "https://emissionscalculator-mtls.production.aiaapi.com/calculator/calculator/3.0.0/grains"
-CERT_FILE = r
-KEY_FILE  = r
+CERT_FILE = r"your path here"
+KEY_FILE  = r"your path here"
 
 # >>> ENTERPRISE-SPECIFIC: sheet names inside the G-GAF workbook
 CROPS_SHEET      = "Data input - crops"

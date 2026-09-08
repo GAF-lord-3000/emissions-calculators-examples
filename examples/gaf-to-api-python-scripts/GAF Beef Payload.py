@@ -6,10 +6,10 @@ import json
 # CONFIG
 # =========================
 # >>> ENTERPRISE-SPECIFIC: path to the completed SB-GAF (seasonal) workbook
-XLSX_FILE = r
+XLSX_FILE = r"your path here"
 API_URL   = "https://emissionscalculator-mtls.production.aiaapi.com/calculator/3.0.0/beef"
-CERT_FILE = r
-KEY_FILE  = r
+CERT_FILE = r"your path here"
+KEY_FILE  = r"your path here"
 
 # >>> ENTERPRISE-SPECIFIC: sheet names inside the SB-GAF workbook
 BEEF_SHEET       = "Data input - beef"

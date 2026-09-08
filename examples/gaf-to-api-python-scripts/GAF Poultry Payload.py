@@ -9,9 +9,9 @@ warnings.simplefilter("ignore")  # openpyxl DrawingML / data-validation UserWarn
 # =========================
 # CONFIG
 # =========================
-XLSX_PATH = r
-CERT_PATH = r
-KEY_PATH  = r
+XLSX_PATH = r"your path here"
+CERT_PATH = r"your path here"
+KEY_PATH  = r"your path here"
 API_URL   = "https://emissionscalculator-mtls.production.aiaapi.com/calculator/3.0.2/poultry"
 
 # =========================

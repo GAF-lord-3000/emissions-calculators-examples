@@ -7,9 +7,9 @@ import requests
 # CONFIG
 # =========================
 API_URL   = "https://emissionscalculator-mtls.production.aiaapi.com/calculator/3.0.2/buffalo"
-XLSX_PATH = r
-CERT_PATH = r
-KEY_PATH  = r
+XLSX_PATH = r"your path here"
+CERT_PATH = r"your path here"
+KEY_PATH  = r"your path here"
  
 # =========================
 # LOOKUPS  (decoded from the workbook's own reference tables)

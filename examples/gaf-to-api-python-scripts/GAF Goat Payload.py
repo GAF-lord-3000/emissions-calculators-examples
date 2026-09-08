@@ -7,9 +7,9 @@ import openpyxl
 # CONFIG
 # =========================
 API_URL   = "https://emissionscalculator-mtls.production.aiaapi.com/calculator/3.0.2/goat"
-CERT_FILE = r
-KEY_FILE  = r
-XLSX_PATH = r
+CERT_FILE = r"your path here"
+KEY_FILE  = r"your path here"
+XLSX_PATH = r"your path here"
  
 # =========================
 # LOAD WORKBOOK

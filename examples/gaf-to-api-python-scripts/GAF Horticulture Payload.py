@@ -5,10 +5,10 @@ import json
 # =========================
 # CONFIG
 # =========================
-XLSX_FILE = r
+XLSX_FILE = r"your path here"
 API_URL   = "https://emissionscalculator-mtls.production.aiaapi.com/calculator/3.0.2/horticulture"
-CERT_PATH = r
-KEY_PATH  = r
+CERT_PATH = r"your path here"
+KEY_PATH  = r"your path here"
 
 # =========================
 # LOAD WORKBOOK

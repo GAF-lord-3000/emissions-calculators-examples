@@ -6,10 +6,10 @@ import openpyxl
 # =========================
 # CONFIG
 # =========================
-XLSX_FILE = r
+XLSX_FILE = r"your path here"
 API_URL   = "https://emissionscalculator-mtls.production.aiaapi.com/calculator/3.0.2/sheep"
-CERT_FILE = r
-KEY_FILE  = r
+CERT_FILE = r"your path here"
+KEY_FILE  = r"your path here"
 
 # openpyxl warns about DrawingML / data-validation extensions it cannot parse. Harmless.
 warnings.filterwarnings("ignore", category=UserWarning, module="openpyxl")

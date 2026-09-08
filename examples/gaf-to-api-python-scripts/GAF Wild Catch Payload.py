@@ -21,10 +21,10 @@ warnings.simplefilter("ignore")  # openpyxl DrawingML / data-validation warnings
 # CONFIG
 # =========================
 API_URL   = "https://emissionscalculator-mtls.production.aiaapi.com/calculator/3.0.2/wildseafisheries"
-CERT_PATH = r
-KEY_PATH  = r
+CERT_PATH = r"your path here"
+KEY_PATH  = r"your path here"
 # Full stops and spaces in the filename are preserved exactly as they appear on disk.
-XLSX_PATH = r
+XLSX_PATH = r"your path here"
 
 wb = openpyxl.load_workbook(XLSX_PATH, data_only=True)
 
