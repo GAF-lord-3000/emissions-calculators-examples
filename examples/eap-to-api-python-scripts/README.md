@@ -6,7 +6,7 @@ This repo contains Python scripts that read emissions data from CSV files export
 
 <p align='center'>
   <a href='https://aginnovationaustralia.com.au'>
-    <img src='./assets/logo-light.svg' alt='Agricultural Innovation Australia' />
+    <img src='../../assets/logo-light.svg' alt='Agricultural Innovation Australia' />
   </a>
 </p>
 
@@ -59,8 +59,8 @@ Made with ❤️ by
 <p align="center">
     <a href="https://exogee.com">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="./assets/exogee-white.svg">
-            <img src="./assets/exogee-black.svg" alt="Exogee">
+            <source media="(prefers-color-scheme: dark)" srcset="../../assets/exogee-white.svg">
+            <img src="../../assets/exogee-black.svg" alt="Exogee">
         </picture>
     </a>
 </p>
